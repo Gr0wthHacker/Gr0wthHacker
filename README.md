@@ -1,47 +1,52 @@
 # Jack Gierlich
 
-Growth marketer, fractional CMO, and multi-venture operator based in Brooklyn, NY. I build products at the intersection of growth marketing, healthcare, and developer tools.
+Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15+ years in regulated healthcare marketing across oncology, clinical trials, and agency work, with three acquisitions behind me. I write the code for most of what I ship.
 
-## Active Ventures
+## Ventures
 
-**Leal Health** — AI-powered oncology patient engagement platform (acquired by Nexus Precision Health, Feb 2026). I lead commercial and marketing partnerships with enterprise pharma.
+**[Leal Health](https://leal.health)**: AI-powered oncology patient engagement platform, acquired by Nexus Precision Health. CEO.
 
-**IndexThread** — Reddit marketing and generative engine optimization (GEO) agency. Research-backed Reddit strategy for B2B brands.
+**[IndexThread](https://indexthread.com)**: Reddit marketing and generative engine optimization (GEO) agency for B2B brands. Founder.
 
-**Actually Health** — Direct-pay virtual care platform. Pre-launch, raising pre-seed.
+**[MultiState MD](https://multistatemd.com)**: Multi-state licensure and clinician compliance operations for practices and health systems.
 
-**ClinicIQ** — Diagnostic reports and revenue optimization for independent medical practices. Co-founded with Dr. Anthonette Sparman, MD.
+**[Whitecoat Alliance](https://whitecoatalliance.com)**: Reputation management for physicians and healthcare professionals.
 
-## Products
+**ClinicIQ**: Diagnostic reports and revenue expansion for independent medical practices, starting with neurology. Co-founded with Anthonette Sparman, MD.
 
-| Product | What it does | Stack |
+## Open source
+
+| Repo | What it does | Stack |
 |---|---|---|
-| [YourOutreachSUCKS](https://youroutreachsucks.com) | Forensic cold outreach audit — 30-offense taxonomy, AI scoring, rewrite | React, Supabase, Claude API |
-| [DiffLens](https://difflens.com) | AI writing detection via text diffs — catches paraphrased rewrites | TanStack Start, Cloudflare Workers, Supabase |
-| [Tool For Founders](https://toolforfounders.com) | 10 free financial calculators for startups and freelancers | React, Supabase, Stripe |
-| [Random Jack Tools](https://randomjacktools.com) | 60+ browser-based developer and data tools | React, Supabase, Stripe |
-| [RolloutPilot](https://rolloutpilot.app) | Feature flags with Sentry/Datadog health gates | React, Supabase, Stripe |
-| [ExecutionPlan](https://executionplan.com) | AI-generated 90-day startup execution plans | TanStack Start, Supabase, Claude API, Stripe |
-| [Pre-Money Studio](https://premoney.studio) | Pitch deck consulting for pre-seed to Series A | TanStack Start, Supabase |
-| [Growth Marketing Story](https://growthmarketingstory.com) | Interactive growth course with games, not videos | TanStack Start, Supabase, Stripe |
-| [That's The Prompt](https://thatstheprompt.com) | Prompt engineering toolkit with BYOK, scoring, gamification | React, Supabase, Claude API, Stripe |
-| [TSX Converter](https://tsxconverter.com) | Render React components as PNG images | React, Supabase, Stripe |
-| [DevData Transformation](https://devdatatransformation.com) | Browser-based CSV/JSON/YAML data transformation tools | React, Supabase, Stripe |
-| [Value Metric Guide](https://valuemetricguide.com) | SaaS pricing strategy tool with Van Westendorp PSM | React, Supabase, Stripe |
-| [MarkUp](https://markup.review) | Visual feedback and design review with annotations | React, Supabase Realtime |
-| [MultiState MD](https://multistatemd.com) | Multi-state medical licensing configurator and services | React, Supabase |
-| [duo.](https://duo.gg) | Swipe-based LFG for co-op gaming | TanStack Start, Supabase Realtime |
-| [ChatBridge](https://github.com/Gr0wthHacker/llmremember) | Chrome extension — search Claude, ChatGPT, Perplexity conversations | Chrome MV3, MiniSearch |
-| [Your Marketing Mentor](https://yourmarketingmentor.com) | Marketing mentorship and fractional CMO platform | React, Supabase, Stripe, Clerk |
+| [taskpilot](https://github.com/Gr0wthHacker/taskpilot) | Local-first desktop task and calendar manager where an AI agent operates the same queue you do, through MCP, HTTP, file I/O, and a permissions model | TypeScript, Electron, SQLite, MCP |
+| [anticall](https://github.com/Gr0wthHacker/anticall) | CallShield Network: self-hostable tooling to screen unwanted solicitation calls, track opt-out requests, and keep an evidence trail for complaints (pre-alpha) | Python, FastAPI, Next.js |
+| [clinician-standing](https://github.com/Gr0wthHacker/clinician-standing) | Ingest layer that diffs CMS and OIG bulk files and writes clinician standing changes to Postgres as cited evidence | Python, Supabase |
+| [anglenews](https://github.com/Gr0wthHacker/anglenews) | AngleCheck: Chrome extension that compares how 10+ outlets frame the story you're reading | Chrome MV3, React, Hono, Claude API |
+| [Minecraft-Claude-Scan-Build](https://github.com/Gr0wthHacker/Minecraft-Claude-Scan-Build) | mcbuild: generate, downscale, audit, and render Litematica schematics from YAML configs or images | Python, NumPy |
+| [updates](https://github.com/Gr0wthHacker/updates) | Public log of shipped work, feeding jackgierlich.com at build time | Markdown, JSON Schema |
+
+## Live products
+
+| Product | What it does |
+|---|---|
+| [Random Jack Tools](https://randomjacktools.com) | 220+ free browser-based utilities for CSV, JSON, PDF, SEO, and dev work |
+| [Tool For Founders](https://toolforfounders.com) | Free financial calculators for founders and freelancers |
+| [TSX Converter](https://tsxconverter.com) | Render React/TSX components to PNG, JPEG, WebP, SVG, or PDF |
+| [itsmagicsvg](https://itsmagicsvg.com) | SVG path visualizer, sprite generator, accessibility checker, and React converter |
+| [PhantomPDF](https://pdfphantom.com) | Invisible per-recipient PDF watermarking and leak detection |
+| [PriceTest](https://itspriced.com) | A/B testing for SaaS pricing pages with one script tag |
+| [That's The Prompt](https://thatstheprompt.com) | Turn rough ideas into structured, production-ready AI prompts |
+| [How To Make A Deck](https://howtomakeadeck.com) | Pitch deck playbook organized into tracks |
+| [Pre-Money Studio](https://premoney.studio) | Pitch deck consulting for pre-seed through Series A |
+| [Let's Get Growth](https://letsgetgrowth.com) | Interactive growth marketing story where you play the first growth hire |
+| [YourOutreachSucks](https://youroutreachsucks.com) | Forensic cold outreach audits with AI scoring and rewrites |
+| [Prevouched](https://prevouched.com) | Vetted offshore agencies with a US contact on every call |
+| [Cupel Studio](https://cupel.studio) | Venture evaluation without the wealth gates |
 
 ## Stack
 
-Most products: React or TanStack Start, Supabase (Postgres + Auth + Edge Functions + Realtime), Stripe, Vercel or Cloudflare Pages. AI features use the Anthropic Claude API.
+React, Next.js, TanStack Start, and Vite on the front end. Supabase (Postgres, Auth, Edge Functions, Realtime), Stripe, and Vercel or Cloudflare for the rest. Python for data and ingest work. AI features run on the Claude API.
 
-## Specialties
+## Elsewhere
 
-Reddit marketing, generative engine optimization (GEO), cold outreach strategy, growth marketing operations, fractional CMO, oncology commercial partnerships.
-
-## Connect
-
-Based in Brooklyn, NY. Available for fractional CMO engagements, growth consulting, and Reddit/GEO strategy.
+[jackgierlich.com](https://jackgierlich.com) · Brooklyn, NY
