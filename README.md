@@ -31,6 +31,7 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 | Product | What it does |
 |---|---|
 | [Random Jack Tools](https://randomjacktools.com) | 220+ free browser-based utilities for CSV, JSON, PDF, SEO, and dev work |
+| [DevDataTransformation](https://devdatatransformation.com) | 29 free browser-based converters for CSV, JSON, YAML, XML and SQL with schema-aware nested output |
 | [Tool For Founders](https://toolforfounders.com) | Free financial calculators for founders and freelancers |
 | [TSX Converter](https://tsxconverter.com) | Render React/TSX components to PNG, JPEG, WebP, SVG, or PDF |
 | [itsmagicsvg](https://itsmagicsvg.com) | SVG path visualizer, sprite generator, accessibility checker, and React converter |
