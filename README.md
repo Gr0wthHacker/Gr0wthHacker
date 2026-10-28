@@ -4,15 +4,27 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 
 ## Ventures
 
+### Healthcare
+
 **[Leal Health](https://leal.health)**: AI-powered oncology patient engagement platform, acquired by Nexus Precision Health. CEO.
 
-**[IndexThread](https://indexthread.com)**: Reddit marketing and generative engine optimization (GEO) agency for B2B brands. Founder.
+**[Clinician Standing](https://clinicianstanding.com)**: One subscription for licensing, credentialing, payer enrollment, CME, and certification deadlines across multi-state clinician rosters. State licensing runs through [MultiState MD](https://multistatemd.com).
 
-**[MultiState MD](https://multistatemd.com)**: Multi-state licensure and clinician compliance operations for practices and health systems.
+**[Clear Median](https://clearmedian.com)**: Benchmarks a practice's Medicare record to find missed revenue, then supports deeper audits, service launches, and revenue-center build-outs. Co-founded with Anthonette Sparman, MD.
 
 **[Whitecoat Alliance](https://whitecoatalliance.com)**: Reputation management for physicians and healthcare professionals.
 
-**ClinicIQ**: Diagnostic reports and revenue expansion for independent medical practices, starting with neurology. Co-founded with Anthonette Sparman, MD.
+**[Stetwright](https://stetwright.com)**: Claims checker for healthcare marketing copy. Every finding cites its rule and source, and approval is recorded against the exact text.
+
+**[PlaceRail](https://placerail.com)**: Split-placement platform for recruiters that keeps candidate permission, split terms, and the fee in one place.
+
+### Growth and venture
+
+**[IndexThread](https://indexthread.com)**: Reddit marketing and generative engine optimization (GEO) agency for B2B brands.
+
+**[Prevouched](https://prevouched.com)**: Vets offshore software, marketing, and design agencies against a public rubric and puts a US contact on every client call.
+
+**[Cupel Studio](https://cupel.studio)**: Venture studio that evaluates founders without the personal-wealth screens venture applies first.
 
 ## Open source
 
@@ -40,8 +52,6 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 | [Pre-Money Studio](https://premoney.studio) | Pitch deck consulting for pre-seed through Series A |
 | [Let's Get Growth](https://letsgetgrowth.com) | Interactive growth marketing story where you play the first growth hire |
 | [YourOutreachSucks](https://youroutreachsucks.com) | Forensic cold outreach audits with AI scoring and rewrites |
-| [Prevouched](https://prevouched.com) | Vetted offshore agencies with a US contact on every call |
-| [Cupel Studio](https://cupel.studio) | Venture evaluation without the wealth gates |
 
 ## Stack
 
