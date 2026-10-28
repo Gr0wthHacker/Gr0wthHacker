@@ -37,6 +37,17 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 | [Minecraft-Claude-Scan-Build](https://github.com/Gr0wthHacker/Minecraft-Claude-Scan-Build) | mcbuild: generate, downscale, audit, and render Litematica schematics from YAML configs or images | Python, NumPy |
 | [updates](https://github.com/Gr0wthHacker/updates) | Public log of shipped work, feeding jackgierlich.com at build time | Markdown, JSON Schema |
 
+## Private builds
+
+Code stays private on these. What they do:
+
+| Project | What it does | Stack |
+|---|---|---|
+| Buildreel | Windows recorder for building in public. One keybind captures webcam, mic, and screens per project, then auto-directs a long build-log cut that switches between face and zoomed code | Rust |
+| ChatBridge | Chrome and Opera extension that indexes, tags, and searches your conversations across Claude, ChatGPT, and Perplexity, stored locally | Chrome MV3, MiniSearch |
+| Vouchline | Hiring tool that ranks applicants on three separate scores (reach, endorsement, fit) so you know who you're hiring before the first call. Humans decide; nothing auto-rejects | Next.js, Python, Supabase |
+| Aetherion | Text-first co-op RPG with AI narration, strategic combat, and procedural loot | React, Supabase |
+
 ## Live products
 
 | Product | What it does |
