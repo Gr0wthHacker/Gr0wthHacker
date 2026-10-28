@@ -26,28 +26,6 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 
 **[Cupel Studio](https://cupel.studio)**: Venture studio that evaluates founders without the personal-wealth screens venture applies first.
 
-## Open source
-
-| Repo | What it does | Stack |
-|---|---|---|
-| [taskpilot](https://github.com/Gr0wthHacker/taskpilot) | Local-first desktop task and calendar manager where an AI agent operates the same queue you do, through MCP, HTTP, file I/O, and a permissions model | TypeScript, Electron, SQLite, MCP |
-| [anticall](https://github.com/Gr0wthHacker/anticall) | CallShield Network: self-hostable tooling to screen unwanted solicitation calls, track opt-out requests, and keep an evidence trail for complaints (pre-alpha) | Python, FastAPI, Next.js |
-| [clinician-standing](https://github.com/Gr0wthHacker/clinician-standing) | Ingest layer that diffs CMS and OIG bulk files and writes clinician standing changes to Postgres as cited evidence | Python, Supabase |
-| [anglenews](https://github.com/Gr0wthHacker/anglenews) | AngleCheck: Chrome extension that compares how 10+ outlets frame the story you're reading | Chrome MV3, React, Hono, Claude API |
-| [Minecraft-Claude-Scan-Build](https://github.com/Gr0wthHacker/Minecraft-Claude-Scan-Build) | mcbuild: generate, downscale, audit, and render Litematica schematics from YAML configs or images | Python, NumPy |
-| [updates](https://github.com/Gr0wthHacker/updates) | Public log of shipped work, feeding jackgierlich.com at build time | Markdown, JSON Schema |
-
-## Private builds
-
-Code stays private on these. What they do:
-
-| Project | What it does | Stack |
-|---|---|---|
-| Buildreel | Windows recorder for building in public. One keybind captures webcam, mic, and screens per project, then auto-directs a long build-log cut that switches between face and zoomed code | Rust |
-| ChatBridge | Chrome and Opera extension that indexes, tags, and searches your conversations across Claude, ChatGPT, and Perplexity, stored locally | Chrome MV3, MiniSearch |
-| Vouchline | Hiring tool that ranks applicants on three separate scores (reach, endorsement, fit) so you know who you're hiring before the first call. Humans decide; nothing auto-rejects | Next.js, Python, Supabase |
-| Aetherion | Text-first co-op RPG with AI narration, strategic combat, and procedural loot | React, Supabase |
-
 ## Live products
 
 | Product | What it does |
@@ -63,6 +41,42 @@ Code stays private on these. What they do:
 | [Pre-Money Studio](https://premoney.studio) | Pitch deck consulting for pre-seed through Series A |
 | [Let's Get Growth](https://letsgetgrowth.com) | Interactive growth marketing story where you play the first growth hire |
 | [YourOutreachSucks](https://youroutreachsucks.com) | Forensic cold outreach audits with AI scoring and rewrites |
+
+## Open source
+
+| Repo | What it does | Stack |
+|---|---|---|
+| [taskpilot](https://github.com/Gr0wthHacker/taskpilot) | Local-first task and calendar manager that an AI agent operates alongside you via MCP, HTTP, and file I/O, with a permissions model | TypeScript, Electron, SQLite |
+| [anticall](https://github.com/Gr0wthHacker/anticall) | CallShield Network: self-hostable call screening, opt-out tracking, and complaint evidence trail (pre-alpha) | Python, FastAPI, Next.js |
+| [clinician-standing](https://github.com/Gr0wthHacker/clinician-standing) | Diffs CMS and OIG bulk files and writes clinician standing changes to Postgres as cited evidence | Python, Supabase |
+| [anglenews](https://github.com/Gr0wthHacker/anglenews) | AngleCheck: Chrome extension comparing how 10+ outlets frame the story you're reading | Chrome MV3, React, Hono |
+| [Minecraft-Claude-Scan-Build](https://github.com/Gr0wthHacker/Minecraft-Claude-Scan-Build) | mcbuild: generate, downscale, audit, and render Litematica schematics from YAML or images | Python, NumPy |
+| [mindstream](https://github.com/Gr0wthHacker/mindstream) | Live feed of my research threads, synthesized from TaskPilot every 30 minutes and approved before publishing | Markdown |
+| [updates](https://github.com/Gr0wthHacker/updates) | Public log of shipped work that feeds jackgierlich.com | Markdown, JSON Schema |
+
+## Browser extensions
+
+Private repos.
+
+| Extension | What it does |
+|---|---|
+| TabFlow | Vertical tab manager in the side panel with fuzzy search, saved sessions, and auto-archive of idle tabs. Opening a URL that's already open jumps to the existing tab and closes the duplicate. Chrome and Opera |
+| Ghost Mode | One-click history blackout. Start a session, browse, end it, and that window is purged from history and downloads while cookies and logins stay intact. Includes panic purge and crash-safe cleanup |
+| ChatBridge | Indexes, tags, and searches your ChatGPT, Claude, and Perplexity chats in one dashboard. Fully local, no backend |
+| Claude Queue | Queue messages in a Claude chat; the next one sends automatically when Claude finishes responding |
+
+## Private builds
+
+Code stays private. What they do:
+
+| Project | What it does | Stack |
+|---|---|---|
+| Cadence | Local agentic ops framework: one input becomes every downstream artifact, such as per-channel social posts, by driving Claude Code and Codex. Companion extension sends chats to it on click | TypeScript, SQLite |
+| Buildreel | Records a software build across many sessions and auto-directs a chaptered cut, switching between webcam and zoomed code. Exports SRT, chapters, and FCPXML. Local-first | Rust |
+| Vouchline | Ranks job applicants on separate reach, endorsement, and fit scores so you know who you're hiring before the first call. Nothing auto-rejects | Next.js, Python, Supabase |
+| Town Hall Bot | Discord bot that joins community voice events, transcribes each speaker, and drafts a recap with decisions and action items for an admin to approve | TypeScript, discord.js, Deepgram |
+| Value Metric Guide | SaaS pricing strategy generator with a built-in Van Westendorp price sensitivity wizard | React, Supabase |
+| Aetherion | Text-first co-op RPG with AI narration, strategic combat, and procedural loot | React, Supabase |
 
 ## Stack
 
