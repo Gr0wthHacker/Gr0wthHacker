@@ -12,7 +12,7 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 
 **[Clear Median](https://clearmedian.com)**: Benchmarks a practice's Medicare record to find missed revenue, then supports deeper audits, service launches, and revenue-center build-outs. Co-founded with Anthonette Sparman, MD.
 
-**[Whitecoat Alliance](https://whitecoatalliance.com)**: Reputation management for physicians and healthcare professionals.
+**[Whitecoat Alliance](https://whitecoatalliance.com)**: Reputation and directory management for physicians and medical practices.
 
 **[Stetwright](https://stetwright.com)**: Claims checker for healthcare marketing copy. Every finding cites its rule and source, and approval is recorded against the exact text.
 
@@ -20,7 +20,7 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 
 ### Growth and venture
 
-**[IndexThread](https://indexthread.com)**: Reddit marketing and generative engine optimization (GEO) agency for B2B brands.
+**[IndexThread](https://indexthread.com)**: Maps what ChatGPT, Gemini, Perplexity, and AI Overviews say about a B2B category, traces each claim to its sources on Reddit, LinkedIn, and review sites, and helps brands own the claims that decide the shortlist.
 
 **[Prevouched](https://prevouched.com)**: Vets offshore software, marketing, and design agencies against a public rubric and puts a US contact on every client call.
 
@@ -31,17 +31,17 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 | Product | What it does |
 |---|---|
 | [Random Jack Tools](https://randomjacktools.com) | 220+ free browser-based utilities for CSV, JSON, PDF, SEO, and dev work |
-| [DevDataTransformation](https://devdatatransformation.com) | 29 free browser-based converters for CSV, JSON, YAML, XML and SQL with schema-aware nested output |
-| [Tool For Founders](https://toolforfounders.com) | Free financial calculators for founders and freelancers |
+| [DevDataTransformation](https://devdatatransformation.com) | Free browser-based converters for CSV, JSON, YAML, XML, SQL, and 25+ formats with schema-aware nested output |
+| [Tool For Founders](https://toolforfounders.com) | 10 free financial calculators for founders and freelancers: rates, SaaS pricing, dilution, runway, and valuation |
 | [TSX Converter](https://tsxconverter.com) | Render React/TSX components to PNG, JPEG, WebP, SVG, or PDF |
 | [itsmagicsvg](https://itsmagicsvg.com) | SVG path visualizer, sprite generator, accessibility checker, and React converter |
 | [PhantomPDF](https://pdfphantom.com) | Invisible per-recipient PDF watermarking and leak detection |
 | [PriceTest](https://itspriced.com) | A/B testing for SaaS pricing pages with one script tag |
 | [That's The Prompt](https://thatstheprompt.com) | Turn rough ideas into structured, production-ready AI prompts |
-| [How To Make A Deck](https://howtomakeadeck.com) | Pitch deck playbook organized into tracks |
+| [How To Make A Deck](https://howtomakeadeck.com) | Playbook for every deck a startup runs on, organized into four categories and seven tracks |
 | [Pre-Money Studio](https://premoney.studio) | Pitch deck consulting for pre-seed through Series A |
 | [Let's Get Growth](https://letsgetgrowth.com) | Interactive growth marketing story where you play the first growth hire |
-| [YourOutreachSucks](https://youroutreachsucks.com) | Forensic cold outreach audits with AI scoring and rewrites |
+| [YourOutreachSucks](https://youroutreachsucks.com) | Forensic audits of real cold outreach, scored against a public standard of 30 offense types and rewritten |
 
 ## Open source
 
@@ -59,12 +59,12 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 
 Private repos.
 
-| Extension | What it does |
-|---|---|
-| TabFlow | Vertical tab manager in the side panel with fuzzy search, saved sessions, and auto-archive of idle tabs. Opening a URL that's already open jumps to the existing tab and closes the duplicate. Chrome and Opera |
-| Ghost Mode | One-click history blackout. Start a session, browse, end it, and that window is purged from history and downloads while cookies and logins stay intact. Includes panic purge and crash-safe cleanup |
-| ChatBridge | Indexes, tags, and searches your ChatGPT, Claude, and Perplexity chats in one dashboard. Fully local, no backend |
-| Claude Queue | Queue messages in a Claude chat; the next one sends automatically when Claude finishes responding |
+| Extension | What it does | Privacy |
+|---|---|---|
+| TabFlow | Vertical tab manager in the side panel with fuzzy search, saved sessions, and auto-archive of idle tabs. Opening a URL that's already open jumps to the existing tab and closes the duplicate. Chrome and Opera | [Policy](https://github.com/Gr0wthHacker/portfolio/blob/main/privacy/tabflow.md) |
+| Ghost Mode | One-click history blackout. Start a session, browse, end it, and that window is purged from history and downloads while cookies and logins stay intact. Includes panic purge and crash-safe cleanup | [Policy](https://github.com/Gr0wthHacker/portfolio/blob/main/privacy/ghost-mode.md) |
+| ChatBridge | Indexes, tags, and searches your ChatGPT, Claude, and Perplexity chats in one dashboard. Fully local, no backend | |
+| Claude Queue | Queue messages in a Claude chat; the next one sends automatically when Claude finishes responding | [Policy](https://github.com/Gr0wthHacker/portfolio/blob/main/privacy/claude-queue.md) |
 
 ## Private builds
 
