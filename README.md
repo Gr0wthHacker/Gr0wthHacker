@@ -8,11 +8,9 @@ Healthtech operator and growth executive in Brooklyn, NY. CEO of Leal Health. 15
 
 **[Leal Health](https://leal.health)**: AI-powered oncology patient engagement platform, acquired by Nexus Precision Health. CEO.
 
-**[Clinician Standing](https://clinicianstanding.com)**: One subscription for licensing, credentialing, payer enrollment, CME, and certification deadlines across multi-state clinician rosters. State licensing runs through [MultiState MD](https://multistatemd.com).
+**[Clinician Standing](https://clinicianstanding.com)**: One subscription for licensing, credentialing, payer enrollment, CME, and certification deadlines across multi-state clinician rosters.
 
 **[Clear Median](https://clearmedian.com)**: Benchmarks a practice's Medicare record to find missed revenue, then supports deeper audits, service launches, and revenue-center build-outs. Co-founded with Anthonette Sparman, MD.
-
-**[Whitecoat Alliance](https://whitecoatalliance.com)**: Reputation and directory management for physicians and medical practices.
 
 **[Stetwright](https://stetwright.com)**: Claims checker for healthcare marketing copy. Every finding cites its rule and source, and approval is recorded against the exact text.
 
